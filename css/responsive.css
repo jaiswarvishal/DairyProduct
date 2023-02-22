@@ -1,0 +1,38 @@
+
+
+@media (max-width: 992px) { 
+	.flex-reverse-blk{
+		flex-direction: column-reverse;
+	}
+	.header-section{
+		overflow: visible !important;
+		height: 100%;
+	} 
+}
+
+@media (max-width: 768px) { 
+	.flex-reverse-blk{
+		flex-direction: column-reverse;
+	}
+	.header-section{
+		overflow: visible !important;
+		height: 100%;
+	} 
+	.logo{width: 200px;}
+}
+@media (max-width: 576px) { 
+	.flex-reverse-blk{
+		flex-direction: column-reverse;
+	}
+	.header-section{
+		overflow: visible !important;
+		height: 100%;
+	} 
+	.logo{width: 200px;}
+}
+
+
+
+
+
+
